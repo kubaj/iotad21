@@ -1,0 +1,22 @@
+{
+  "name": "iotad21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kubaj/iotad21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kubaj/iotad21/issues"
+  },
+  "homepage": "https://github.com/kubaj/iotad21#readme",
+  "dependencies": {
+    "@iota/core": "^1.0.0-alpha.1"
+  }
+}
